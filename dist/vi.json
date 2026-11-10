@@ -1,0 +1,379 @@
+{
+  "slug": "awesome-ia-advocacia",
+  "language": "vi",
+  "title": "Awesome IA na advocacia",
+  "description": "AI cho luật sư: trợ lý, quyền riêng tư, quy định về AI trong nghề luật và tư pháp, cùng các nguồn chính thức để đối chiếu.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Trợ lý AI",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaadv-chatgpt",
+          "description": "Trợ lý của OpenAI, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaadv-claude",
+          "description": "Trợ lý của Anthropic, có gói miễn phí và gói trả phí.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaadv-copilot",
+          "description": "Trợ lý của Microsoft, cũng có trong Windows và Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaadv-gemini",
+          "description": "Trợ lý của Google, cũng có trong Gmail và Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Quyền riêng tư với AI",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaadv-anthropic-onde-mudar-o-treino",
+          "description": "Cách ngăn các cuộc trò chuyện của bạn trên Claude được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaadv-google-atividade-do-gemini",
+          "description": "Cách tắt lịch sử hoạt động của Gemini và điều gì thay đổi khi làm vậy.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaadv-microsoft-controles-de-privacidade",
+          "description": "Nơi đặt các thiết lập quyền riêng tư và huấn luyện của Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaadv-openai-controles-de-dados",
+          "description": "Cách ngăn các cuộc trò chuyện trên ChatGPT được dùng để huấn luyện mô hình.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaadv-whatsapp-privacidade",
+          "description": "WhatsApp nói gì về quyền riêng tư, kể cả khi trò chuyện với Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-ia",
+      "title": "Quy định về AI trong luật sư và Tư pháp",
+      "items": [
+        {
+          "name": "Código de Ética e Disciplina da OAB",
+          "url": "https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-etica-e-disciplina-da-oa",
+          "description": "Bộ quy tắc về bảo mật, quảng cáo và đạo đức nghề nghiệp của luật sư.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Provimento 205/2021 da OAB",
+          "url": "https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021",
+          "link": "https://go.mymarketing.click/iaadv-provimento-205-2021-da-oab",
+          "description": "Các quy định về quảng cáo và cung cấp thông tin của ngành luật.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Recomendação 001/2024 do CFOAB",
+          "url": "https://www.oab.org.br/jurisprudencia/detementa/20761",
+          "link": "https://go.mymarketing.click/iaadv-recomendacao-001-2024-do-cfoab",
+          "description": "Khuyến nghị của Hội đồng Liên bang OAB về việc sử dụng AI trong nghề luật.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CD/ANPD 19/2024",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cd-anpd-19-2024",
+          "description": "Việc chuyển dữ liệu cá nhân ra nước ngoài, diễn ra khi dán dữ liệu vào một dịch vụ từ bên ngoài.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 615/2025",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/6001",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-615-2025",
+          "description": "Các quy định về việc sử dụng AI trong Tư pháp.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Nguồn chính thức để kiểm tra",
+      "items": [
+        {
+          "name": "Consolidação das Leis do Trabalho",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaadv-consolidacao-das-leis-do-trabalho",
+          "description": "CLT trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Constituição Federal",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-constituicao-federal",
+          "description": "Hiến pháp được biên soạn trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Consulta do DJEN",
+          "url": "https://comunica.pje.jus.br/",
+          "link": "https://go.mymarketing.click/iaadv-consulta-do-djen",
+          "description": "Tra cứu công khai Diário de Justiça Eletrônico Nacional, theo tên và OAB.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-civil",
+          "description": "Bộ Luật Dân sự được biên soạn trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-defesa-do-consumidor",
+          "description": "CDC được biên soạn trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Processo Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-processo-civil",
+          "description": "CPC trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Estatuto da Advocacia",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+          "link": "https://go.mymarketing.click/iaadv-estatuto-da-advocacia",
+          "description": "Lei 8.906/1994 trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 455/2022",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/4509",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-455-2022",
+          "description": "Các quy định về DJEN và Domicílio Judicial Eletrônico.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Súmulas vinculantes do STF",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1202",
+          "link": "https://go.mymarketing.click/iaadv-sumulas-vinculantes-do-stf",
+          "description": "Tra cứu các súmula vinculantes trên cổng của STF.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "alucinacoes",
+      "title": "Lỗi của AI trong hồ sơ vụ án",
+      "items": [
+        {
+          "name": "AI Hallucination Cases",
+          "url": "https://www.damiencharlotin.com/hallucinations/",
+          "link": "https://go.mymarketing.click/iaadv-ai-hallucination-cases",
+          "description": "Cơ sở dữ liệu các quyết định tư pháp về văn bản có trích dẫn do AI bịa ra, do Damien Charlotin duy trì.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Bảo vệ dữ liệu",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-lgpd",
+          "description": "Luật Bảo vệ Dữ liệu Cá nhân, bản văn được biên soạn trên Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaadv-anpd",
+          "description": "Cơ quan Quốc gia về Bảo vệ Dữ liệu, với hướng dẫn và quy định về LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Sách và bộ kit",
+      "items": [
+        {
+          "name": "IA na advocacia (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-livro",
+          "description": "Tập 9 của loạt O Novo Básico, với các công việc của nghề được làm bằng AI thực sự và mỗi dữ kiện đều có nguồn.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia/kit",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-o-kit-online",
+          "description": "Các mẫu yêu cầu sẵn, danh sách những điều cần kiểm tra và nguồn của sách, mở trên trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

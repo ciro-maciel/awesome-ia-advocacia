@@ -1,0 +1,379 @@
+{
+  "slug": "awesome-ia-advocacia",
+  "language": "ru",
+  "title": "Awesome IA na advocacia",
+  "description": "IA для адвокатов: ассистенты, конфиденциальность, нормы об ИИ в адвокатуре и в судебной системе, и официальные источники для проверки.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "ИИ-ассистенты",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaadv-chatgpt",
+          "description": "Ассистент от OpenAI, с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaadv-claude",
+          "description": "Ассистент от Anthropic, с бесплатным и платными тарифами.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaadv-copilot",
+          "description": "Ассистент от Microsoft, также встроенный в Windows и Office.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaadv-gemini",
+          "description": "Ассистент от Google, также встроенный в Gmail и Google Docs.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Конфиденциальность в ИИ",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaadv-anthropic-onde-mudar-o-treino",
+          "description": "Как не дать использовать ваши переписки в Claude для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaadv-google-atividade-do-gemini",
+          "description": "Как отключить историю активности в Gemini и что это изменит.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaadv-microsoft-controles-de-privacidade",
+          "description": "Где находятся настройки конфиденциальности и обучения в Copilot.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaadv-openai-controles-de-dados",
+          "description": "Как не дать использовать переписки в ChatGPT для обучения модели.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaadv-whatsapp-privacidade",
+          "description": "Что WhatsApp сообщает о конфиденциальности, в том числе когда вы общаетесь с Meta AI.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-ia",
+      "title": "Нормы об ИИ в адвокатуре и судебной системе",
+      "items": [
+        {
+          "name": "Código de Ética e Disciplina da OAB",
+          "url": "https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-etica-e-disciplina-da-oa",
+          "description": "Кодекс, который регулирует тайну, рекламу и поведение адвоката.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Provimento 205/2021 da OAB",
+          "url": "https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021",
+          "link": "https://go.mymarketing.click/iaadv-provimento-205-2021-da-oab",
+          "description": "Правила рекламы и информирования в адвокатуре.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Recomendação 001/2024 do CFOAB",
+          "url": "https://www.oab.org.br/jurisprudencia/detementa/20761",
+          "link": "https://go.mymarketing.click/iaadv-recomendacao-001-2024-do-cfoab",
+          "description": "Рекомендация Федерального совета OAB по использованию ИИ в адвокатуре.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CD/ANPD 19/2024",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cd-anpd-19-2024",
+          "description": "Международная передача персональных данных, которая происходит, когда данные вставляются в сервис из-за рубежа.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 615/2025",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/6001",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-615-2025",
+          "description": "Правила использования ИИ в судебной системе.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Официальные источники для проверки",
+      "items": [
+        {
+          "name": "Consolidação das Leis do Trabalho",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaadv-consolidacao-das-leis-do-trabalho",
+          "description": "CLT на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Constituição Federal",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-constituicao-federal",
+          "description": "Конституция в собранном виде на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Consulta do DJEN",
+          "url": "https://comunica.pje.jus.br/",
+          "link": "https://go.mymarketing.click/iaadv-consulta-do-djen",
+          "description": "Публичный поиск в Национальном электронном журнале Diário de Justiça по имени и OAB.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-civil",
+          "description": "Гражданский кодекс в собранном виде на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-defesa-do-consumidor",
+          "description": "CDC в собранном виде на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Processo Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-processo-civil",
+          "description": "CPC на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Estatuto da Advocacia",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+          "link": "https://go.mymarketing.click/iaadv-estatuto-da-advocacia",
+          "description": "Закон 8.906/1994 на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 455/2022",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/4509",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-455-2022",
+          "description": "Правила DJEN и Электронного судебного домициля.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Súmulas vinculantes do STF",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1202",
+          "link": "https://go.mymarketing.click/iaadv-sumulas-vinculantes-do-stf",
+          "description": "Поиск обязательных сумул на портале STF.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "alucinacoes",
+      "title": "Ошибки ИИ в процессах",
+      "items": [
+        {
+          "name": "AI Hallucination Cases",
+          "url": "https://www.damiencharlotin.com/hallucinations/",
+          "link": "https://go.mymarketing.click/iaadv-ai-hallucination-cases",
+          "description": "База судебных решений о документах с выдуманными ИИ цитатами, поддерживаемая Damien Charlotin.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Защита данных",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-lgpd",
+          "description": "Общий закон о защите данных в собранном виде на сайте Planalto.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaadv-anpd",
+          "description": "Национальное управление по защите данных, с руководствами и нормативными актами по LGPD.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Книга и комплект",
+      "items": [
+        {
+          "name": "IA na advocacia (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-livro",
+          "description": "Том 9 серии O Novo Básico, где задачи профессии выполнены с помощью настоящего ИИ, а каждый факт подкреплён источником.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia/kit",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-o-kit-online",
+          "description": "Готовые запросы, списки для проверки и источники книги, открываются на сайте.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

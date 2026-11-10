@@ -1,0 +1,379 @@
+{
+  "slug": "awesome-ia-advocacia",
+  "language": "tr",
+  "title": "Awesome IA na advocacia",
+  "description": "Avukatlar için yapay zekâ: asistanlar, gizlilik, avukatlık ve yargıda YZ kuralları ve kontrol edilecek resmi kaynaklar.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "Yapay zekâ asistanları",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaadv-chatgpt",
+          "description": "OpenAI'ın asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaadv-claude",
+          "description": "Anthropic'in asistanı, ücretsiz ve ücretli planlarıyla.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaadv-copilot",
+          "description": "Microsoft'un asistanı, Windows ve Office içinde de.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaadv-gemini",
+          "description": "Google'ın asistanı, Gmail ve Google Docs içinde de.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "Yapay zekâlarda gizlilik",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaadv-anthropic-onde-mudar-o-treino",
+          "description": "Claude'daki konuşmalarınızın model eğitiminde kullanılmasını nasıl engellersiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaadv-google-atividade-do-gemini",
+          "description": "Gemini'nin etkinlik geçmişini nasıl kapatırsınız ve bunun sonucu ne olur.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaadv-microsoft-controles-de-privacidade",
+          "description": "Copilot'un gizlilik ve eğitim denetimleri nerede.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaadv-openai-controles-de-dados",
+          "description": "ChatGPT'deki konuşmaların model eğitiminde kullanılmasını nasıl engellersiniz.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaadv-whatsapp-privacidade",
+          "description": "WhatsApp'ın gizlilik hakkında söyledikleri, Meta AI ile konuşurken de dahil.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-ia",
+      "title": "Avukatlıkta ve yargıda yapay zekâ düzenlemeleri",
+      "items": [
+        {
+          "name": "Código de Ética e Disciplina da OAB",
+          "url": "https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-etica-e-disciplina-da-oa",
+          "description": "Avukatın gizliliği, reklamı ve davranışını düzenleyen kurallar.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Provimento 205/2021 da OAB",
+          "url": "https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021",
+          "link": "https://go.mymarketing.click/iaadv-provimento-205-2021-da-oab",
+          "description": "Avukatlıkta reklam ve bilgilendirme kuralları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Recomendação 001/2024 do CFOAB",
+          "url": "https://www.oab.org.br/jurisprudencia/detementa/20761",
+          "link": "https://go.mymarketing.click/iaadv-recomendacao-001-2024-do-cfoab",
+          "description": "OAB Federal Konseyi'nin avukatlıkta yapay zekâ kullanımına ilişkin tavsiyesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CD/ANPD 19/2024",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cd-anpd-19-2024",
+          "description": "Kişisel verilerin, hizmet dışarıdaki bir sunucuya yapıştırıldığında gerçekleşen uluslararası aktarımı.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 615/2025",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/6001",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-615-2025",
+          "description": "Yargı Gücü'nde yapay zekâ kullanımına ilişkin kurallar.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "Kontrol edilecek resmi kaynaklar",
+      "items": [
+        {
+          "name": "Consolidação das Leis do Trabalho",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaadv-consolidacao-das-leis-do-trabalho",
+          "description": "Planalto'da CLT.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Constituição Federal",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-constituicao-federal",
+          "description": "Planalto'da derlenmiş Anayasa.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Consulta do DJEN",
+          "url": "https://comunica.pje.jus.br/",
+          "link": "https://go.mymarketing.click/iaadv-consulta-do-djen",
+          "description": "DJEN'de ad ve OAB numarasına göre halka açık arama.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-civil",
+          "description": "Planalto'da derlenmiş Medeni Kanun.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-defesa-do-consumidor",
+          "description": "Planalto'da derlenmiş CDC.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Processo Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-processo-civil",
+          "description": "Planalto'da CPC.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Estatuto da Advocacia",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+          "link": "https://go.mymarketing.click/iaadv-estatuto-da-advocacia",
+          "description": "Planalto'da 8.906/1994 sayılı Kanun.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 455/2022",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/4509",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-455-2022",
+          "description": "DJEN ve Elektronik Yargısal Tebligat Adresi kuralları.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Súmulas vinculantes do STF",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1202",
+          "link": "https://go.mymarketing.click/iaadv-sumulas-vinculantes-do-stf",
+          "description": "STF'nin sitesinde bağlayıcı içtihat özetlerinin sorgulanması.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "alucinacoes",
+      "title": "Yapay zekâ kaynaklı hatalar: davalarda",
+      "items": [
+        {
+          "name": "AI Hallucination Cases",
+          "url": "https://www.damiencharlotin.com/hallucinations/",
+          "link": "https://go.mymarketing.click/iaadv-ai-hallucination-cases",
+          "description": "Damien Charlotin'in tuttuğu, yapay zekâ tarafından uydurulmuş atıflar içeren dilekçelere ilişkin bir yargı kararları veritabanı.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "Veri koruma",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-lgpd",
+          "description": "Planalto'da derlenmiş metniyle Genel Veri Koruma Kanunu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaadv-anpd",
+          "description": "LGPD'nin rehberlerini ve yönetmeliklerini barındıran Ulusal Veri Koruma Otoritesi.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "Kitap ve set",
+      "items": [
+        {
+          "name": "IA na advocacia (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-livro",
+          "description": "O Novo Básico serisinin 9. cildi; mesleğin görevleri gerçek yapay zekâ araçlarıyla yapılmış ve her bilgi kaynaklı.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia/kit",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-o-kit-online",
+          "description": "Hazır istemler, kontrol listeleri ve kitabın kaynakları, sitede açık olarak.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

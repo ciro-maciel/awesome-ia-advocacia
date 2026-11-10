@@ -1,0 +1,379 @@
+{
+  "slug": "awesome-ia-advocacia",
+  "language": "ko",
+  "title": "Awesome IA na advocacia",
+  "description": "변호사를 위한 AI: 어시스턴트, 개인정보 보호, 법률 분야와 사법부의 AI 관련 규정, 그리고 확인할 수 있는 공식 자료.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "assistentes",
+      "title": "AI 어시스턴트",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "link": "https://go.mymarketing.click/iaadv-chatgpt",
+          "description": "OpenAI의 어시스턴트. 무료 및 유료 요금제 제공.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "link": "https://go.mymarketing.click/iaadv-claude",
+          "description": "Anthropic의 어시스턴트. 무료 및 유료 요금제 제공.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "link": "https://go.mymarketing.click/iaadv-copilot",
+          "description": "Microsoft의 어시스턴트. Windows와 Office 안에서도 사용 가능.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "link": "https://go.mymarketing.click/iaadv-gemini",
+          "description": "Google의 어시스턴트. Gmail과 Google Docs 안에서도 사용 가능.",
+          "tags": [
+            "gratis",
+            "pago"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "privacidade",
+      "title": "AI 개인정보 보호",
+      "items": [
+        {
+          "name": "Anthropic: onde mudar o treino",
+          "url": "https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings",
+          "link": "https://go.mymarketing.click/iaadv-anthropic-onde-mudar-o-treino",
+          "description": "Claude에서 대화 내용이 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Google: atividade do Gemini",
+          "url": "https://support.google.com/gemini/answer/13278892?hl=pt-BR",
+          "link": "https://go.mymarketing.click/iaadv-google-atividade-do-gemini",
+          "description": "Gemini의 활동 기록을 끄는 방법과 그에 따라 달라지는 점.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Microsoft: controles de privacidade do Copilot",
+          "url": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/privacy-controls",
+          "link": "https://go.mymarketing.click/iaadv-microsoft-controles-de-privacidade",
+          "description": "Copilot의 개인정보 보호 및 학습 관련 설정 위치.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenAI: controles de dados",
+          "url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+          "link": "https://go.mymarketing.click/iaadv-openai-controles-de-dados",
+          "description": "ChatGPT에서 대화 내용이 모델 학습에 쓰이지 않도록 막는 방법.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "WhatsApp: privacidade",
+          "url": "https://www.whatsapp.com/privacyquestions",
+          "link": "https://go.mymarketing.click/iaadv-whatsapp-privacidade",
+          "description": "WhatsApp의 개인정보 보호 정책. Meta AI와 대화할 때의 내용 포함.",
+          "tags": [
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "normas-ia",
+      "title": "법률 분야의 AI 규정 (OAB, CNJ, 사법부)",
+      "items": [
+        {
+          "name": "Código de Ética e Disciplina da OAB",
+          "url": "https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-etica-e-disciplina-da-oa",
+          "description": "변호사의 비밀유지, 광고, 행동 기준을 규정하는 윤리 규정.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Provimento 205/2021 da OAB",
+          "url": "https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021",
+          "link": "https://go.mymarketing.click/iaadv-provimento-205-2021-da-oab",
+          "description": "변호사 업무의 광고 및 정보 제공 규정.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Recomendação 001/2024 do CFOAB",
+          "url": "https://www.oab.org.br/jurisprudencia/detementa/20761",
+          "link": "https://go.mymarketing.click/iaadv-recomendacao-001-2024-do-cfoab",
+          "description": "변호사 업무에서 AI 사용에 관한 OAB 전국위원회의 권고.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CD/ANPD 19/2024",
+          "url": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cd-anpd-19-2024",
+          "description": "개인정보를 외국 서비스에 입력할 때 발생하는 국제 데이터 이전에 관한 내용.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 615/2025",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/6001",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-615-2025",
+          "description": "사법부에서 AI를 사용하기 위한 규정.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "fontes",
+      "title": "공식 자료 확인 출처",
+      "items": [
+        {
+          "name": "Consolidação das Leis do Trabalho",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+          "link": "https://go.mymarketing.click/iaadv-consolidacao-das-leis-do-trabalho",
+          "description": "Planalto에 게시된 CLT 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Constituição Federal",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-constituicao-federal",
+          "description": "Planalto에 게시된 헌법 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Consulta do DJEN",
+          "url": "https://comunica.pje.jus.br/",
+          "link": "https://go.mymarketing.click/iaadv-consulta-do-djen",
+          "description": "Diário de Justiça Eletrônico Nacional을 이름과 OAB 번호로 검색하는 공개 조회 페이지.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-civil",
+          "description": "Planalto에 게시된 민법 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Defesa do Consumidor",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-defesa-do-consumidor",
+          "description": "Planalto에 게시된 소비자보호법(CDC) 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Código de Processo Civil",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+          "link": "https://go.mymarketing.click/iaadv-codigo-de-processo-civil",
+          "description": "Planalto에 게시된 민사소송법(CPC) 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Estatuto da Advocacia",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+          "link": "https://go.mymarketing.click/iaadv-estatuto-da-advocacia",
+          "description": "Planalto에 게시된 Lei 8.906/1994 원문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Resolução CNJ 455/2022",
+          "url": "https://atos.cnj.jus.br/atos/detalhar/4509",
+          "link": "https://go.mymarketing.click/iaadv-resolucao-cnj-455-2022",
+          "description": "DJEN 및 Domicílio Judicial Eletrônico 규정.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Súmulas vinculantes do STF",
+          "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1202",
+          "link": "https://go.mymarketing.click/iaadv-sumulas-vinculantes-do-stf",
+          "description": "STF 포털에서 구속력 있는 súmula를 조회하는 페이지.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "alucinacoes",
+      "title": "소송서류의 AI 오류",
+      "items": [
+        {
+          "name": "AI Hallucination Cases",
+          "url": "https://www.damiencharlotin.com/hallucinations/",
+          "link": "https://go.mymarketing.click/iaadv-ai-hallucination-cases",
+          "description": "AI가 만든 가짜 인용이 포함된 소송서면 사례를 모아 둔 판결 데이터베이스. Damien Charlotin이 관리함.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "protecao-de-dados",
+      "title": "개인정보 보호",
+      "items": [
+        {
+          "name": "LGPD",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+          "link": "https://go.mymarketing.click/iaadv-lgpd",
+          "description": "Planalto에 게시된 개인정보 보호법(LGPD) 전문.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ANPD",
+          "url": "https://www.gov.br/anpd/pt-br",
+          "link": "https://go.mymarketing.click/iaadv-anpd",
+          "description": "LGPD 관련 가이드와 규정을 제공하는 국가 개인정보보호청(ANPD).",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "livro",
+      "title": "도서 및 키트",
+      "items": [
+        {
+          "name": "IA na advocacia (livro)",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-livro",
+          "description": "O Novo Básico 시리즈 9권으로, 직업의 업무를 실제 AI로 수행하고 모든 사실에 출처를 달았습니다.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IA na advocacia: o kit online",
+          "url": "https://ciromaciel.click/books/ia-na-advocacia/kit",
+          "link": "https://go.mymarketing.click/iaadv-ia-na-advocacia-o-kit-online",
+          "description": "완성된 요청문, 확인 체크리스트, 도서의 출처 목록을 웹사이트에서 바로 열 수 있습니다.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
